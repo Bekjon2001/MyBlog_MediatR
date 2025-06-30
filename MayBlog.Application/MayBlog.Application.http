@@ -1,0 +1,6 @@
+@MayBlog.Application_HostAddress = http://localhost:5100
+
+GET {{MayBlog.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

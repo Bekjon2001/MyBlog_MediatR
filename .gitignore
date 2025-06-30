@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build directories
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Logs, DBs
+*.log
+*.db
