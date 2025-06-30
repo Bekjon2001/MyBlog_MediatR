@@ -7,7 +7,7 @@ namespace MyBlog.Infrastrcue.Persistence
 {
     public class ApplicationDbContext : DbContext, IApplictionDbContext
     {
-        public ApplicationDbContext( DbContextOptions<ApplicationDbContext> options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
 
