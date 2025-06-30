@@ -1,7 +1,6 @@
 ﻿using MayBlog.Application.UseCases.Post.Models;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-//using MyBlog.Application.UseCases.Post.Models;
 using MayBlog.Application.Abstrakctions; 
 
 namespace MayBlog.Application.UseCases.Post.Querys
